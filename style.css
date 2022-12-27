@@ -16,3 +16,27 @@ ul{
 	background-color: #FFFFFF;
 	border-radius: 8px;
 }
+article{
+	margin-left: 220px;
+	margin-right: 215px;
+}
+.disurati{
+	max-width: 850px;
+	max-height: 600px;
+}
+img{
+	max-width: 167px;
+	max-height: 167px;
+}
+.damatinf{
+	border-radius: 8px;
+	background-color: #0A22F4;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+}
+footer{
+	background-color: #0A22F4;
+	max-height: 800px;
+	color: white;
+}
